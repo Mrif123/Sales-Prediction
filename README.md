@@ -1,5 +1,5 @@
 
-📈 # Sales Forecast Trends Prediction
+# 📈  Sales Forecast Trends Prediction
 
 📌 Project Overview
 
